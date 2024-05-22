@@ -17,7 +17,7 @@ public class StudentClass {
     }
     
     public String getName() {
-        return name;
+        return name; //for commit
     
 }
 }
