@@ -17,7 +17,7 @@ public class StudentClass {
     }
     
     public String getName() {
-        return name; //comment to test pull request
+        return name;
     
 }
 }
